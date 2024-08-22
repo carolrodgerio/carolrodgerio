@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 
 class SkillsEmAprendizado extends Desenvolvedor {
   backend = ["python, java"];
-  frontend = ["html, css, javascript"];
-  frameworks = ["react"];
+  frontend = ["html, css, javascript, react"];
+  dados = ["sql"];
 }
 ```
