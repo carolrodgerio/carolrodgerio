@@ -6,7 +6,7 @@ class SobreMim extends Desenvolvedor {
   area = "mkt & tecnologia";
   trabalho = "FIAP";
   local = "São Paulo/SP";
-  formacao = "historiadora pela USP & analista de sistemas em formação pela FIAP"
+  formacao = "historiadora pela USP & analista de sistemas em formação pela FIAP";
 }
 
 class SkillsEmAprendizado extends Desenvolvedor {
