@@ -25,5 +25,5 @@ class SkillsEmAprendizado extends Desenvolvedor {
                                         (\_(\      /)_/)
                                        (     )    (     )
                                       ૮/ʚɞ  |ა    ૮|  ʚɞ\ა
-                                      ( ◌   |      |   ◌ )
+                                      ( ◌   |      |   ◌ ) 
 ```
