@@ -3,7 +3,7 @@ import Desenvolvedor from "carolrodgerio";
 
 class SobreMim extends Desenvolvedor {
   nome = "Carolina Rodgerio";
-  area = "mkt & tecnologia";
+  area = "mkt, educação & tecnologia";
   trabalho = "FIAP";
   local = "São Paulo/SP";
   formacao = "historiadora pela USP & analista de sistemas em formação pela FIAP";
