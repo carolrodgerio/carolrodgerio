@@ -1,7 +1,7 @@
 ```js
-import Desenvolvedor from "carolrodgerio";
+import Dev from "carolrodgerio";
 
-class SobreMim extends Desenvolvedor {
+class SobreMim extends Dev {
   nome = "Carolina Rodgerio";
   area = "mkt, educação & tecnologia";
   trabalho = "FIAP";
@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
   formacao = "historiadora pela USP & analista de sistemas em formação pela FIAP";
 }
 
-class SkillsEmAprendizado extends Desenvolvedor {
+class SkillsEmAprendizado extends Dev {
   backend = ["python, java"];
   frontend = ["html, css, javascript, react"];
   dados = ["sql"];
