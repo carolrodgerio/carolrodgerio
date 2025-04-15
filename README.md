@@ -14,15 +14,4 @@ class SkillsEmAprendizado extends Dev {
   frontend = ["html, css, javascript, typescript, react"];
   dados = ["sql"];
 }
-
-  ◌                             ◌                                       ◌           
-                                            ‧₊ *:･ﾟ彡       ◌                 ☽︎       ◌
-            ◌                                 ✩彡 ･ﾟ *:                                     
-                                ◌                                        ◌
-◌
-                                               ♡
-                                        (\_(\      /)_/)
-                                       (     )    (     )
-                                      ૮/ʚɞ  |ა    ૮|  ʚɞ\ა
-                                      ( ◌   |      |   ◌ ) 
 ```
